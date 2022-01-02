@@ -2,7 +2,11 @@
 In this repository you will find :
 - Our report powerpoint presentation in form of a PDF.
 - A jupyter file where we clean the dataset, analyze it and apply models to it.
-- The .py file of the flask
+- The .py file of the flask API
+- The csv file containing the dataset from https://archive.ics.uci.edu/ml/datasets/online+news+popularity
+- The names files containing the names of the columns of the dataset https://archive.ics.uci.edu/ml/datasets/online+news+popularity
+
+Please download all files in this repository.
 ## What is the Online News Popularity dataset about?
 Our dataset summarizes  a set of 61 features describing articles published on the Mashable wesbite. Mashable is an international entertainment, culture, technology, science, social  digital media platform, news website, multi-platform media and entertainment company. The objective with these features it that we would predict the popularity of an article published on the Mashable website caracterized by the number of shares of an article. Every row of our dataset corresponds to an article and its features.
 
@@ -100,4 +104,4 @@ Observe if your article would be popular or not.
 
 
 
-
+## For more details and explanations, please read our jupyter file and the report.
