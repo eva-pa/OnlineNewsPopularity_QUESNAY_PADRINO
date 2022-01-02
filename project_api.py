@@ -128,11 +128,11 @@ class HelloWorld(Resource):
         
 
         modele=GradientBoostingClassifier(
-                                max_features='sqrt',
+                                max_features='log2',
                                 learning_rate=0.1,
-                                max_depth= 3,
+                                max_depth= 5,
                                 min_samples_leaf= 5,
-                                n_estimators=200)
+                                n_estimators=180)
         modele.fit(X,Y)
         y_pred = modele.predict(x_new_test)
         print(y_pred)
