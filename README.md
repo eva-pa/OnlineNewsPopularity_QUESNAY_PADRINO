@@ -74,7 +74,7 @@ And the target
 
 ## How to use our Flask
 
-Fisrt, run the code from the file : "project_api.py".
+Fisrt, run the script from the file : "project_api.py".
 ![alt text](https://github.com/eva-pa/OnlineNewsPopularity_QUESNAY_PADRINO/blob/main/Images_API/Step_1.PNG?raw=true)
 
 Then, copy this url in a navigator : http://127.0.0.1:5000/api/doc.
