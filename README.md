@@ -73,3 +73,6 @@ And the target
 
 
 ## How to use our Flask
+
+https://github.com/eva-pa/OnlineNewsPopularity_QUESNAY_PADRINO/blob/main/Images_API/Step_1.PNG
+
