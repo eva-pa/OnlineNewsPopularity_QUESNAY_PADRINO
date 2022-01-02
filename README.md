@@ -74,6 +74,30 @@ And the target
 
 ## How to use our Flask
 
+Fisrt, run the code from the file : "project_api.py".
 ![alt text](https://github.com/eva-pa/OnlineNewsPopularity_QUESNAY_PADRINO/blob/main/Images_API/Step_1.PNG?raw=true)
+
+Then, copy this url in a navigator : http://127.0.0.1:5000/api/doc.
+![alt text](https://github.com/eva-pa/OnlineNewsPopularity_QUESNAY_PADRINO/blob/main/Images_API/Step_2.PNG?raw=true)
+
+Click on the button in green to unwind the menu.
+![alt text](https://github.com/eva-pa/OnlineNewsPopularity_QUESNAY_PADRINO/blob/main/Images_API/Step_3.PNG?raw=true)
+
+Click on the "Try it out" button to start editing your request.
+![alt text](https://github.com/eva-pa/OnlineNewsPopularity_QUESNAY_PADRINO/blob/main/Images_API/Step_4.PNG?raw=true)
+
+You need to change the text where "string" is written and answer the request you are asked.
+![alt text](https://github.com/eva-pa/OnlineNewsPopularity_QUESNAY_PADRINO/blob/main/Images_API/Step_5.PNG?raw=true)
+
+This is an example of how to fill the answers.
+![alt text](https://github.com/eva-pa/OnlineNewsPopularity_QUESNAY_PADRINO/blob/main/Images_API/Step_6.PNG?raw=true)
+
+Execute the API by using the button.
+![alt text](https://github.com/eva-pa/OnlineNewsPopularity_QUESNAY_PADRINO/blob/main/Images_API/Step_7.PNG?raw=true)
+
+Observe if your article would be popular or not.
+![alt text](https://github.com/eva-pa/OnlineNewsPopularity_QUESNAY_PADRINO/blob/main/Images_API/Step_8.PNG?raw=true)
+
+
 
 
