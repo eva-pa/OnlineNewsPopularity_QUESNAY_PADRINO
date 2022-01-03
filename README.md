@@ -1,4 +1,6 @@
 # OnlineNewsPopularity_QUESNAY_PADRINO
+Projet réalisé par Victor Quesnay et Eva Padrino du groupe 6 DIA.
+
 In this repository you will find :
 - Our report powerpoint presentation in form of a PDF.
 - A jupyter file where we clean the dataset, analyze it and apply models to it.
